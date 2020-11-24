@@ -20,7 +20,7 @@ Page({
 
   onLoad: function() {
     // 设置页面标题
-    App.setTitle();
+    // App.setTitle();
     // 设置navbar标题、颜色
     App.setNavigationBar();
     // 获取首页数据
